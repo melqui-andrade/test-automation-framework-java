@@ -1,0 +1,9 @@
+{
+  "defaultSubmission": {
+    "text": "LinkedIn portfolio project",
+    "password": "Serenity123",
+    "notes": "Example Serenity BDD frontend automation scenario for portfolio usage.",
+    "dropdownOption": "Two",
+    "confirmationMessage": "Received!"
+  }
+}

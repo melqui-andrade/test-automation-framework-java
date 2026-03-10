@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "username": "student",
+    "password": "Password123",
+    "expectedHeading": "Logged In Successfully"
+  },
+  "invalidPasswordUser": {
+    "username": "student",
+    "password": "WrongPassword",
+    "expectedError": "Your password is invalid!"
+  }
+}

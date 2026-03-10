@@ -1,0 +1,6 @@
+.idea/
+target/
+serenity-reports/
+*.iml
+*.log
+.DS_Store
