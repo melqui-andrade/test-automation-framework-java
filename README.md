@@ -11,7 +11,8 @@ Demonstrar um framework de UI automation com estrutura BDD, massa de dados exter
 - Java 17
 - Maven
 - Serenity BDD
-- Cucumber
+- Cucumber 7
+- JUnit Platform 6
 - Selenium WebDriver
 - AssertJ
 - GitHub Actions
@@ -83,6 +84,8 @@ Executar toda a suite:
 ```bash
 mvn clean verify
 ```
+
+A suite usa JUnit Platform com engine do Cucumber e plugin do Serenity, sem depender dos runners legados depreciados.
 
 Executar apenas cenarios smoke:
 
